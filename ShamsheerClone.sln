@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShamsheerClone.Data", "src\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShamsheerClone.Service", "src\ShamsheerClone.Service\ShamsheerClone.Service.csproj", "{B9B442AC-FF28-4518-BA41-5419E7DCD443}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Icarus.Api", "src\Icarus.Api\Icarus.Api.csproj", "{36977363-48F8-433B-AE09-241070D6117D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{B9B442AC-FF28-4518-BA41-5419E7DCD443}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9B442AC-FF28-4518-BA41-5419E7DCD443}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9B442AC-FF28-4518-BA41-5419E7DCD443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36977363-48F8-433B-AE09-241070D6117D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36977363-48F8-433B-AE09-241070D6117D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36977363-48F8-433B-AE09-241070D6117D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36977363-48F8-433B-AE09-241070D6117D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,6 +50,7 @@ Global
 		{CD368CA1-746A-4908-93A4-D29CE4F6EFF7} = {CF735390-B119-47DB-BEA1-D5F51B007F36}
 		{FF937F92-63E4-4F7A-9B64-0D8960B120AC} = {CF735390-B119-47DB-BEA1-D5F51B007F36}
 		{B9B442AC-FF28-4518-BA41-5419E7DCD443} = {CF735390-B119-47DB-BEA1-D5F51B007F36}
+		{36977363-48F8-433B-AE09-241070D6117D} = {CF735390-B119-47DB-BEA1-D5F51B007F36}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A47B7D5C-1447-4E62-BE0B-43C8F795C433}
